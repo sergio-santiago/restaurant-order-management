@@ -3,5 +3,5 @@
 .project
 /bin/
 .idea/
-management-restaurant-orders.iml
+restaurant-order-management.iml
 out/
